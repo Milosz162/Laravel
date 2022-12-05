@@ -1,0 +1,7 @@
+ORM - Współpracuje z obiektem bazy danych, słuzy do tworzenia relacji 
+Routing - służy do kierowania żądania do odpowiedniego kontrolera
+Framework - Biblioteka, która mozemy wywołać 
+Model MVC - wzorzec projektu
+M - MODEL - opis struktury dancyh
+V - Viev - intefrejs (to co widzi uzytkownik)
+C - Controller - Logika działań 
